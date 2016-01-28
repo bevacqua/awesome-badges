@@ -22,7 +22,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/bevacqua/awesome-badges.svg)](https://codeclimate.com/github/bevacqua/awesome-badges)
 [![Code Climate](https://img.shields.io/codeclimate/coverage/github/bevacqua/awesome-badges.svg)](https://codeclimate.com/github/bevacqua/awesome-badges)
 [![Gemnasium](https://img.shields.io/gemnasium/bevacqua/awesome-badges.svg)](https://gemnasium.com/npms/awesome-badges)
-[![Bounties](https://img.shields.io/bountysource/teams/awesome-badges.svg)](https://www.bountysource.com/teams/awesome-badges)
+[![Bounties](https://img.shields.io/bountysource/team/awesome-badges/activity.svg)](https://www.bountysource.com/teams/awesome-badges)
 [![Gitter](https://img.shields.io/gitter/room/bevacqua/awesome-badges.svg)](https://gitter.im/bevacqua/awesome-badges)
 
 [![GitHub forks](https://img.shields.io/github/forks/bevacqua/awesome-badges.svg?style=social&label=Fork)](https://github.com/bevacqua/awesome-badges)
