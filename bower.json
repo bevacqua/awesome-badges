@@ -1,0 +1,17 @@
+{
+  "name": "awesome-badges",
+  "description": "Awesome, badges!",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bevacqua/awesome-badges",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/awesome-badges.git"
+  },
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "hello@ponyfoo.com",
+    "url": "https://ponyfoo.com"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
